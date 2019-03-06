@@ -1,4 +1,3 @@
-# chatbot
-It's a chatbot.
+# Rasa chatbot
 
-Based on Sundar Krishnan, https://towardsdatascience.com/chatbots-are-cool-a-framework-using-python-part-1-overview-7c69af7a7439.
+First chatbot built with the [Rasa framework](https://www.rasa.com/docs/). Based on the [Rasa starter pack](https://github.com/RasaHQ/starter-pack-rasa-nlu).
